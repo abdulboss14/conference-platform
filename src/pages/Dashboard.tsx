@@ -65,7 +65,7 @@ export default function Dashboard() {
               Dashboard
             </h2>
             <p className="mt-1 text-sm text-gray-500">
-              Welcome back, {user?.first_name}! Here's what's happening.
+              Welcome back, {user?.first_name}! Here's what's happening today.
             </p>
           </div>
         </div>
